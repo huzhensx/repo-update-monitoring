@@ -1,0 +1,14 @@
+{
+  "repos": [
+    {
+      "owner": "cshuangyy",
+      "repo": "videdown",
+      "alias": "videdown"
+    },
+    {
+      "owner": "LAVARONG",
+      "repo": "ImageForge",
+      "alias": "ImageForge"
+    }
+  ]
+}
