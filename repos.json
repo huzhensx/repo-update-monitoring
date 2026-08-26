@@ -9,6 +9,11 @@
       "owner": "LAVARONG",
       "repo": "ImageForge",
       "alias": "ImageForge"
+    },
+    {
+      "owner": "genspark-ai",
+      "repo": "genoffice",
+      "alias": "GenOffice"
     }
   ]
 }
