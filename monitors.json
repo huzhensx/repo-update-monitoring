@@ -1,0 +1,26 @@
+{
+  "monitors": [
+    {
+      "type": "github_release",
+      "owner": "cshuangyy",
+      "repo": "videdown",
+      "alias": "videdown"
+    },
+    {
+      "type": "github_release",
+      "owner": "LAVARONG",
+      "repo": "ImageForge",
+      "alias": "ImageForge"
+    },
+    {
+      "type": "github_release",
+      "owner": "genspark-ai",
+      "repo": "genoffice",
+      "alias": "GenOffice"
+    },
+    {
+      "type": "wechat_windows",
+      "alias": "微信PC版"
+    }
+  ]
+}
