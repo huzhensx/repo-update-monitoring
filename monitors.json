@@ -21,6 +21,11 @@
     {
       "type": "wechat_windows",
       "alias": "微信PC版"
+    },
+    {
+      "type": "wetype_windows",
+      "alias": "微信输入法(Windows)",
+      "changelog_url": "https://z.weixin.qq.com/web/change-log/166"
     }
   ]
 }
