@@ -16,5 +16,8 @@
     "published_at": "2026-08-27T15:17:01Z",
     "name": "GenOffice v0.8.440",
     "url": "https://github.com/genspark-ai/genoffice/releases/tag/v0.8.440"
+  },
+  "wechat_windows": {
+    "version": "4.1.13"
   }
 }
