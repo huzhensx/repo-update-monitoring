@@ -19,5 +19,8 @@
   },
   "wechat_windows": {
     "version": "4.1.13"
+  },
+  "wetype_windows": {
+    "version": "2.1.3.18"
   }
 }
