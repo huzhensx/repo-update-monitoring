@@ -12,15 +12,15 @@
     "url": "https://github.com/LAVARONG/ImageForge/releases/tag/1.1.0"
   },
   "genspark-ai/genoffice": {
-    "tag": "v0.11.564",
-    "published_at": "2026-10-11T15:52:03Z",
-    "name": "GenOffice v0.11.564",
-    "url": "https://github.com/genspark-ai/genoffice/releases/tag/v0.11.564"
+    "tag": "v0.11.727",
+    "published_at": "2026-10-13T15:10:18Z",
+    "name": "GenOffice v0.11.727",
+    "url": "https://github.com/genspark-ai/genoffice/releases/tag/v0.11.727"
   },
   "wechat_windows": {
     "version": "4.1.15"
   },
   "wetype_windows": {
-    "version": "3.0.0.29"
+    "version": "3.0.0.32"
   }
 }
